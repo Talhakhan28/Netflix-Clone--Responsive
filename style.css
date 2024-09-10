@@ -298,7 +298,16 @@ footer .questions {
         gap: 25px;
     }
 }
+@media screen and (max-width: 410px) {
 
+    .btn-red-gs {
+    padding: 8px 0px;
+   .main input {
+    padding: 5px 7px;
+    
+}
+}
+}
 
 .footer a {
     font-size: 14px;
