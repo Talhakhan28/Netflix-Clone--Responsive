@@ -298,7 +298,7 @@ footer .questions {
         gap: 25px;
     }
 }
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 367px) {
 
     .btn-red-gs {
     padding: 8px 0px;
